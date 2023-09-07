@@ -1,4 +1,4 @@
-# from classes import Vial
+from classes import Vial
 import re
 import os
 
